@@ -11,6 +11,10 @@ import com.esri.support.recyclerviewpattern.R;
 
 /**
  * Created by nohe427 on 10/29/16.
+ *
+ * Useful guide is located here:
+ * https://developer.android.com/training/material/lists-cards.html
+ * 
  */
 
 public class LibraryAdapter extends RecyclerView.Adapter<LibraryAdapter.LibraryViewHolder> {
